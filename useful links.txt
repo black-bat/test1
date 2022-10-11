@@ -6,3 +6,18 @@ https://www.youtube.com/watch?v=zbg39ink85Q&list=PLKbJd47KcbjuHU3AhyeOPJ9p_GDB6y
 
 Серия видео по работе с Postman -
 https://www.youtube.com/watch?v=Qe-kDHq-Vw4&list=PLKbJd47KcbjvLgn-ukTvfpaGoXAqybza0
+
+Серия видео по работе с PostgreSQL -
+https://www.youtube.com/watch?v=PfyC39EzTmk&list=PLPPIc-4tm3YQsdhSV1qzAgDKTuMUNnPmp
+
+JDBC подключение к БД из java + CRUD
+https://www.youtube.com/watch?v=7LMD8-AZcFM
+
+Битовые операции И, ИЛИ, НЕ, XOR
+https://www.youtube.com/watch?v=JMK7vm6ango
+
+Регулярные выражения
+https://regexone.com/problem/matching_html?
+
+Мэтт Вайсфельд "Объектно-ориентированное мышление"
+https://sd.blackball.lv/library/Objektno-orientirovannoe_myshlenie_(2014).pdf
