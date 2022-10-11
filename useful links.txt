@@ -1,5 +1,7 @@
 Серия видео по работе с Docker -
 https://www.youtube.com/watch?v=a5mxBTGfC5k&list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg&index=3
+или 
+https://www.youtube.com/watch?v=_uZQtRyF6Eg
 
 Серия видео по работе с Git -
 https://www.youtube.com/watch?v=zbg39ink85Q&list=PLKbJd47KcbjuHU3AhyeOPJ9p_GDB6yGL7&index=5
