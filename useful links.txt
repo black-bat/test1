@@ -1,3 +1,6 @@
+Сайт для скачивания программ-
+http://profismart.org/web/
+
 Серия видео по работе с Docker -
 https://www.youtube.com/watch?v=a5mxBTGfC5k&list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg&index=3
 или 
