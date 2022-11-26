@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=Qe-kDHq-Vw4&list=PLKbJd47KcbjvLgn-ukTvfpaGoXAqyb
 Серия видео по работе с PostgreSQL -
 https://www.youtube.com/watch?v=PfyC39EzTmk&list=PLPPIc-4tm3YQsdhSV1qzAgDKTuMUNnPmp
 
+Основные команды в SQL -
+http://old.code.mu/sql/update.html
+
 JDBC подключение к БД из java + CRUD
 https://www.youtube.com/watch?v=7LMD8-AZcFM
 
