@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=Qe-kDHq-Vw4&list=PLKbJd47KcbjvLgn-ukTvfpaGoXAqyb
 Серия видео по работе с PostgreSQL -
 https://www.youtube.com/watch?v=PfyC39EzTmk&list=PLPPIc-4tm3YQsdhSV1qzAgDKTuMUNnPmp
 
+Серия видео Spring для Начинающих -
+https://www.youtube.com/watch?v=nQffFaKvGQc&list=PLqj7-hRTFl_p-t5F2zSUlG6_9UIoE2r70&index=1
+
 Основные команды в SQL -
 http://old.code.mu/sql/update.html
 
