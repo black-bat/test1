@@ -24,8 +24,11 @@ http://old.code.mu/sql/update.html
 JDBC подключение к БД из java + CRUD
 https://www.youtube.com/watch?v=7LMD8-AZcFM
 
-Битовые операции И, ИЛИ, НЕ, XOR
+Битовые операции И, ИЛИ, НЕ, XOR -
 https://www.youtube.com/watch?v=JMK7vm6ango
+
+Hibernate_User_Guide -
+https://docs.jboss.org/hibernate/orm/6.1/userguide/html_single/Hibernate_User_Guide.html#associations
 
 JAVA FX
 https://www.javatpoint.com/javafx-playing-audio
