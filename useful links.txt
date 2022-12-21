@@ -18,6 +18,9 @@ https://www.youtube.com/watch?v=PfyC39EzTmk&list=PLPPIc-4tm3YQsdhSV1qzAgDKTuMUNn
 Серия видео Spring для Начинающих -
 https://www.youtube.com/watch?v=nQffFaKvGQc&list=PLqj7-hRTFl_p-t5F2zSUlG6_9UIoE2r70&index=1
 
+Три видео про Spring JPA / JDBC -
+https://www.youtube.com/watch?v=s4Wg3sUBdf4&list=PLm3ddHdAijoHL7SEc7NlyUP_YZAkED5Zc&index=3
+
 Основные команды в SQL -
 http://old.code.mu/sql/update.html
 
