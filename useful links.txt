@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=_uZQtRyF6Eg
 Серия видео по работе с Git -
 https://www.youtube.com/watch?v=zbg39ink85Q&list=PLKbJd47KcbjuHU3AhyeOPJ9p_GDB6yGL7&index=5
 
+GitHub в Intellij Idea
+https://www.youtube.com/watch?v=8EDVDUQVrVA
+
 Серия видео по работе с Postman -
 https://www.youtube.com/watch?v=Qe-kDHq-Vw4&list=PLKbJd47KcbjvLgn-ukTvfpaGoXAqybza0
 
