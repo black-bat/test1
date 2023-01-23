@@ -27,6 +27,9 @@ https://www.youtube.com/watch?v=s4Wg3sUBdf4&list=PLm3ddHdAijoHL7SEc7NlyUP_YZAkED
 Spring framework ПОЛНЫЙ КУРС для начинающих 2021 REST API (одно информативное видео) -
 https://www.youtube.com/watch?v=q87Xxu4NPIc
 
+Основы работы с Spring Security -
+https://www.youtube.com/watch?v=7uxROJ1nduk
+
 Основные команды в SQL -
 http://old.code.mu/sql/update.html
 
