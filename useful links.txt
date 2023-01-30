@@ -5,6 +5,10 @@ http://profismart.org/web/
 https://www.youtube.com/watch?v=a5mxBTGfC5k&list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg&index=3
 или 
 https://www.youtube.com/watch?v=_uZQtRyF6Eg
+или
+https://www.youtube.com/watch?v=2vwwwA4AEyk
+или
+https://www.youtube.com/watch?v=n9uCgUzfeRQ
 
 Серия видео по работе с Git -
 https://www.youtube.com/watch?v=zbg39ink85Q&list=PLKbJd47KcbjuHU3AhyeOPJ9p_GDB6yGL7&index=5
@@ -29,6 +33,11 @@ https://www.youtube.com/watch?v=q87Xxu4NPIc
 
 Основы работы с Spring Security -
 https://www.youtube.com/watch?v=7uxROJ1nduk
+
+RestControllerAdvice (читать) - 
+https://www.bezkoder.com/spring-boot-restcontrolleradvice/
+или
+https://struchkov.dev/blog/exception-handling-controlleradvice/ 
 
 Основные команды в SQL -
 http://old.code.mu/sql/update.html
