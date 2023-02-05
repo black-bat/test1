@@ -9,6 +9,8 @@ https://www.youtube.com/watch?v=_uZQtRyF6Eg
 https://www.youtube.com/watch?v=2vwwwA4AEyk
 или
 https://www.youtube.com/watch?v=n9uCgUzfeRQ
+или (текст)
+https://habr.com/ru/company/ruvds/blog/438796/
 
 Серия видео по работе с Git -
 https://www.youtube.com/watch?v=zbg39ink85Q&list=PLKbJd47KcbjuHU3AhyeOPJ9p_GDB6yGL7&index=5
@@ -53,6 +55,13 @@ https://docs.jboss.org/hibernate/orm/6.1/userguide/html_single/Hibernate_User_Gu
 
 JAVA FX
 https://www.javatpoint.com/javafx-playing-audio
+
+This is Java 2D games tutorial (Swing) -
+или
+https://learncodebygaming.com/blog/how-to-make-a-video-game-in-java-2d-basics
+или
+https://zetcode.com/javagames/ 
+
 
 Регулярные выражения
 https://regexone.com/problem/matching_html?
