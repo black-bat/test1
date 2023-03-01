@@ -62,9 +62,14 @@ https://learncodebygaming.com/blog/how-to-make-a-video-game-in-java-2d-basics
 или
 https://zetcode.com/javagames/ 
 
-
 Регулярные выражения
 https://regexone.com/problem/matching_html?
 
 Мэтт Вайсфельд "Объектно-ориентированное мышление"
 https://sd.blackball.lv/library/Objektno-orientirovannoe_myshlenie_(2014).pdf
+
+Генерация ключей для Токенов:
+https://allkeysgenerator.com/Random/Security-Encryption-Key-Generator.aspx
+
+Другое:
+https://jwt.io/
