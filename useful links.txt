@@ -44,6 +44,9 @@ https://struchkov.dev/blog/exception-handling-controlleradvice/
 Основные команды в SQL -
 http://old.code.mu/sql/update.html
 
+Тренажер по SQL - 
+https://sql-academy.org/ru/guide
+
 JDBC подключение к БД из java + CRUD
 https://www.youtube.com/watch?v=7LMD8-AZcFM
 
@@ -73,3 +76,8 @@ https://allkeysgenerator.com/Random/Security-Encryption-Key-Generator.aspx
 
 Другое:
 https://jwt.io/
+
+Сайт для построения диаграмм -
+https://app.diagrams.net/
+или
+https://www.lucidchart.com/pages/
