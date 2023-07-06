@@ -55,6 +55,9 @@ https://www.youtube.com/watch?v=JMK7vm6ango
 
 Паттерны Проектирования (читать) -
 https://refactoringguru.cn/design-patterns
+Серия видео про паттерны проектирования -
+https://www.youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P
+https://www.youtube.com/watch?v=QSsDiWIzWcU&list=PLwcDaxeEINactCC4mly7RQon5juIpH-Q3
 
 Hibernate_User_Guide -
 https://docs.jboss.org/hibernate/orm/6.1/userguide/html_single/Hibernate_User_Guide.html#associations
