@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=2vwwwA4AEyk
 https://www.youtube.com/watch?v=n9uCgUzfeRQ
 или (текст)
 https://habr.com/ru/company/ruvds/blog/438796/
+или https://www.youtube.com/watch?v=qS9KYTcWMlY (собираем наше приложение в dockre образ и запускаем на сервере)
 
 Серия видео по работе с Git -
 https://www.youtube.com/watch?v=zbg39ink85Q&list=PLKbJd47KcbjuHU3AhyeOPJ9p_GDB6yGL7&index=5
@@ -39,7 +40,22 @@ https://www.youtube.com/watch?v=7uxROJ1nduk
 RestControllerAdvice (читать) - 
 https://www.bezkoder.com/spring-boot-restcontrolleradvice/
 или
-https://struchkov.dev/blog/exception-handling-controlleradvice/ 
+https://struchkov.dev/blog/exception-handling-controlleradvice/
+
+Транзакции - 
+https://edu.postgrespro.ru/sqlprimer/sqlprimer-2019-msu-07.pdf
+
+@Transactional -
+https://habr.com/ru/articles/682362/
+
+Kafka - 
+https://habr.com/ru/companies/otus/articles/663264/ 
+
+Redis -
+https://www.youtube.com/watch?v=zIqGn60RxkE
+
+Паттерны микросервисной разработки - 
+https://mcs.mail.ru/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki
 
 Основные команды в SQL -
 http://old.code.mu/sql/update.html
@@ -61,6 +77,9 @@ https://www.youtube.com/watch?v=QSsDiWIzWcU&list=PLwcDaxeEINactCC4mly7RQon5juIpH
 
 Hibernate_User_Guide -
 https://docs.jboss.org/hibernate/orm/6.1/userguide/html_single/Hibernate_User_Guide.html#associations
+
+Stream API (группы методов и примеры) -
+https://struchkov.dev/blog/ru/java-stream-api/
 
 JAVA FX
 https://www.javatpoint.com/javafx-playing-audio
@@ -87,3 +106,7 @@ https://jwt.io/
 https://app.diagrams.net/
 или
 https://www.lucidchart.com/pages/
+
+
+Полезные логические тесты - 
+https://metodorf.ru/tests/korrekt/korrektlandolt.php?method=landoltprof&age=adult&mod=check
